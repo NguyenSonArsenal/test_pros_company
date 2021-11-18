@@ -9,11 +9,6 @@
 * PHP
   - 7.4
 
-* bash 
-```bash
-    composer install
-```
-
 * account
 ```bash
     admin
